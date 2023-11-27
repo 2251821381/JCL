@@ -1,6 +1,7 @@
 # JCL
 <<Joint Contrastive Learning for Prompt-Based Few-Shot Language Learners>>
 if you want to run our code ,you should first  download all dataset acoording to  the download_dataset.sh, and then, run the train.py .
+The dataset download address is https://nlp.cs.princeton.edu/projects/lm-bff/datasets.tar
 # model.png
 <img width="751" alt="model2" src="https://user-images.githubusercontent.com/40848730/221091908-3f0409e1-f1da-476f-af3e-20b7596ae17c.png">
 # observation.png
