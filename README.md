@@ -2,10 +2,10 @@
 <<Joint Contrastive Learning for Prompt-Based Few-Shot Language Learners>>
 if you want to run our code ,you should first  download all dataset acoording to  the download_dataset.sh, and then, run the train.py .
 The dataset download address is https://nlp.cs.princeton.edu/projects/lm-bff/datasets.tar
-1. cd data
-bash download_dataset.sh
-2.python tools/generate_k_shot_data.py
-3.for seed in 13 21 42 87 100   #### random seeds for different train-test splits
+1. cd data  
+bash download_dataset.sh  
+2.python tools/generate_k_shot_data.py  
+3.for seed in 13 21 42 87 100   #### random seeds for different train-test splits  
 do
     for bs in 40   #### batch size
     do
