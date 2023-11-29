@@ -4,8 +4,8 @@ if you want to run our code ,you should first  download all dataset acoording to
 The dataset download address is https://nlp.cs.princeton.edu/projects/lm-bff/datasets.tar
 * cd data  
 bash download_dataset.sh
-*python tools/generate_k_shot_data.py
-*for seed in 13 21 42 87 100   #### random seeds for different train-test splits  
+* python tools/generate_k_shot_data.py
+* for seed in 13 21 42 87 100   #### random seeds for different train-test splits  
 do
     for bs in 40   #### batch size
     do
