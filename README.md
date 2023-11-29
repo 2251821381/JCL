@@ -31,5 +31,5 @@ rm -rf result/
 # model.png
 <img width="751" alt="model2" src="https://user-images.githubusercontent.com/40848730/221091908-3f0409e1-f1da-476f-af3e-20b7596ae17c.png">
 # observation.png
-<img width="815" alt="observation" src="https://user-images.githubusercontent.com/40848730/221091914-aaf8bc10-4dc4-4a89-8928-b432f0818c47.png">
+<img width="815" alt="observation" src="https://github.com/2251821381/JCL/blob/main/observation.png">
 
